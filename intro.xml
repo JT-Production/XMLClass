@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!--every xml file must need a parent tag i.e note.-->
+<note>
+<to>Tove</to>
+<from>Jani</from>
+<heading>Reminder</heading>
+<body>Dont forget me this weekend</body>
+
+<!--improper nexted tags are not allowed-->
+<b><i>This text is                        bold and italic</i></b>  
+<text>5 is &lt; than 7</text> 
+<text>7 is &gt; greater 5</text>
+
+</note>

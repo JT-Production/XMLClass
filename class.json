@@ -1,0 +1,16 @@
+{
+    "name": "Daivd Osihmen",
+    "age": 24,
+    "sex": "Male",
+  
+  "courses" : [ 
+    {"type": "Arts", "focus": "Real-life environments"},
+    { "type": "Sciences", "focus": "Scientific shii"}
+    ],
+    "faculty": 
+    { "first" : {"name": "Kone", "height": "6ft"},
+      "second": {"name" : "Dave", "height": "6ft"}
+    },
+    "height": "5'11ft",
+    "program": "Part-time"
+}
